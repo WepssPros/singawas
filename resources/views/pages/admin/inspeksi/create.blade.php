@@ -168,6 +168,7 @@
     });
 </script>
 // Update the label of the custom file input with the selected file name
+
 <script src="https://cdn.ckeditor.com/4.16.2/standard/ckeditor.js"></script>
 <script>
     // Inisialisasi CKEditor pada textarea dengan ID 'hasil_inspeksi'

@@ -115,7 +115,7 @@
                         <a href="{{route('login')}}" class="navbar-link" data-nav-link>Login</a>
                     </li>
                     <li>
-                        <a href="{{route('register')}}t" class="navbar-link" data-nav-link>register</a>
+                        <a href="{{route('register')}}" class="navbar-link" data-nav-link>register</a>
                     </li>
                     @endauth
 
